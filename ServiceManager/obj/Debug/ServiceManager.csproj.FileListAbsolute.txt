@@ -1,0 +1,13 @@
+F:\resources.projects\C#\wpf\ServiceManager\ServiceManager\bin\Debug\ServiceManager.exe.config
+F:\resources.projects\C#\wpf\ServiceManager\ServiceManager\bin\Debug\ServiceManager.exe
+F:\resources.projects\C#\wpf\ServiceManager\ServiceManager\bin\Debug\ServiceManager.pdb
+F:\resources.projects\C#\wpf\ServiceManager\ServiceManager\obj\Debug\ServiceManager.csprojResolveAssemblyReference.cache
+F:\resources.projects\C#\wpf\ServiceManager\ServiceManager\obj\Debug\MainWindow.baml
+F:\resources.projects\C#\wpf\ServiceManager\ServiceManager\obj\Debug\MainWindow.g.cs
+F:\resources.projects\C#\wpf\ServiceManager\ServiceManager\obj\Debug\App.g.cs
+F:\resources.projects\C#\wpf\ServiceManager\ServiceManager\obj\Debug\ServiceManager_MarkupCompile.cache
+F:\resources.projects\C#\wpf\ServiceManager\ServiceManager\obj\Debug\ServiceManager.g.resources
+F:\resources.projects\C#\wpf\ServiceManager\ServiceManager\obj\Debug\ServiceManager.Properties.Resources.resources
+F:\resources.projects\C#\wpf\ServiceManager\ServiceManager\obj\Debug\ServiceManager.csproj.GenerateResource.Cache
+F:\resources.projects\C#\wpf\ServiceManager\ServiceManager\obj\Debug\ServiceManager.exe
+F:\resources.projects\C#\wpf\ServiceManager\ServiceManager\obj\Debug\ServiceManager.pdb
